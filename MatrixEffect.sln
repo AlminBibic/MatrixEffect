@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MatrixEffect", "MatrixEffect\MatrixEffect.vcxproj", "{BBB89D15-F8AC-49D0-8B9E-443DF45F300B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB89D15-F8AC-49D0-8B9E-443DF45F300B}.Debug|x64.ActiveCfg = Debug|x64
+		{BBB89D15-F8AC-49D0-8B9E-443DF45F300B}.Debug|x64.Build.0 = Debug|x64
+		{BBB89D15-F8AC-49D0-8B9E-443DF45F300B}.Debug|x86.ActiveCfg = Debug|Win32
+		{BBB89D15-F8AC-49D0-8B9E-443DF45F300B}.Debug|x86.Build.0 = Debug|Win32
+		{BBB89D15-F8AC-49D0-8B9E-443DF45F300B}.Release|x64.ActiveCfg = Release|x64
+		{BBB89D15-F8AC-49D0-8B9E-443DF45F300B}.Release|x64.Build.0 = Release|x64
+		{BBB89D15-F8AC-49D0-8B9E-443DF45F300B}.Release|x86.ActiveCfg = Release|Win32
+		{BBB89D15-F8AC-49D0-8B9E-443DF45F300B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CF3F0CA-0796-4AE1-85B0-0BC1241038F8}
+	EndGlobalSection
+EndGlobal
